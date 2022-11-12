@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "02tf/ZBvIvtnx/wgQWVzEvw9WH1UU+7Mh9WwXL1B0Bc8Fz4Eto3lhDC3slKN1c9itF53pjiMAVSLoBR/XXMFQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\Repet\\Classtask\\Classtask\\Classtask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
