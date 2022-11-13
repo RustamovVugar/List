@@ -130,16 +130,74 @@ namespace Classtask
             //    Console.WriteLine(item.key + "" + item.value);
             //}
 
-            SortedList sortedList = new SortedList();
+            //SortedList sortedList = new SortedList();
 
-            sortedList.Add(1, "Resul");
-            sortedList.Add(2, "Nicat");
-            sortedList.Add(3, "Vuqar");
-            
-            foreach (DictionaryEntry item in sortedList)
-            {
-                Console.WriteLine(item.Key + "" + item.Value);
-            }
+            //sortedList.Add(1, "Resul");
+            //sortedList.Add(2, "Nicat");
+            //sortedList.Add(3, "Vuqar");
+
+            //foreach (DictionaryEntry item in sortedList)
+            //{
+            //    Console.WriteLine(item.Key + "" + item.Value);
+            //}
+
+            //ArrayList arrayList = new ArrayList();
+            //arrayList.Add("Salam");
+            //arrayList.Add(155);
+
+            //foreach (var item in arrayList)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+            //SortedList<string, string> list = new SortedList<string, string>();
+            //list.Add("Admin", "Qoshqar");
+            //list.Add("Member", "Test");
+
+            //foreach (KeyValuePair<string,string> item in list)
+            //{
+            //    if (item.Key == "Admin")
+            //    {
+            //        Console.WriteLine(item.Value);
+            //    }
+            //}
+
+            //Dictionary<string, string> dictionaryList = new Dictionary<string, string>();
+            //dictionaryList.Add("Admin", "Ramil");
+
+            //foreach (KeyValuePair<string,string> item in dictionaryList)
+            //{
+            //    if (item.Key == "Admin")
+            //    {
+            //        Console.WriteLine(item.Value);
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine(dictionaryList["Admin"]);
+            //    }
+            //}
+
+            //List<int> list1 = new List<int>();
+            //List<string> list2 = new List<string>();
+
+            //Queue<int> queue = new Queue<int>();
+            //queue.Enqueue(5);
+            //queue.Enqueue(10);
+            //queue.Enqueue(3);
+
+            //foreach (var item in queue)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+            //Stack<int> stack = new Stack<int>();
+            //stack.Push(11);
+            //stack.Push(22);
+            //stack.Push(3);
+            //foreach (var item in stack)
+            //{
+            //    Console.WriteLine(item);
+            //}
         }
 
 
